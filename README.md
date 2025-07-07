@@ -1,4 +1,4 @@
-# Internship_Task2
+# Internship_Task3
 # LCD Temperature Display using Arduino
 
 This Arduino project uses a **TMP36 temperature sensor** to read temperature and displays the result on a **16x2 LCD**. The circuit is simulated using [Tinkercad](https://www.tinkercad.com/things/ch4UX2GBjT2-lcd-display-using-temperature).
